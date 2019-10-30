@@ -4,6 +4,9 @@ body {
   color: rgb(35,15,15);
   font-size: 16px;
   background-image: url("image/hive_image.jpg");
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1, h2, a {
